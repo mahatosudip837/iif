@@ -1,0 +1,23 @@
+@media screen and (max-width:820px){
+    #hero .row{
+        padding-left: 0;
+    }
+    #hero .hero-left{
+        padding: 20px;
+    }
+    .hero-right-img{
+        width: 100%;
+    }
+    #news img{
+        width: 100%;
+    }
+    footer .top-header .header-right h2{
+        text-align: left;
+    }
+    .footer-link ul{
+        flex-wrap: wrap;
+        row-gap: 5px;
+        column-gap: 10px;
+        justify-content: flex-start;
+    }
+}
